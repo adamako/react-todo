@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TODO API
+
+Before starting setup todo API:
+
+https://github.com/adamako/spring-todo
 ## Available Scripts
 
 In the project directory, you can run:
